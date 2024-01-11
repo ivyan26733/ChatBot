@@ -1,6 +1,5 @@
 # ChatBot Project
 
-![ChatBot Logo](/path/to/your/logo.png)
 
 ## Overview
 
@@ -19,9 +18,4 @@ This ChatBot project is a simple yet powerful chat application created using Jav
 - **HTML**: Provides the structure and layout for the web application.
 - **CSS**: Used for styling and customizing the appearance of the chat interface.
 
-## Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ChatBot.git
